@@ -60,5 +60,5 @@ with hands-on experience in **SystemVerilog / Verilog**, FPGA-based systems, and
 
 ## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ronalkoby@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)]([https://www.linkedin.com/in/ron-alkoby](https://www.linkedin.com/in/ronalkoby/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ron-alkoby)
 
